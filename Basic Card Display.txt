@@ -1,0 +1,14 @@
+Basic Card Display --- Question: What city do you live in? --- Answer: cleveland --- Date: 1506905964006
+Basic Card Display --- Question: How many months feet in a mile? --- Answer: 5,280 feet --- Date: 1506905968514
+Basic Card Display --- Question: What is the the body's largest organ? --- Answer: skin --- Date: 1506905973016
+Cloze Card Display --- Question: Not including Pluto. How many planets are there? --- --- Cloze: 8 planets --- Date: 1506905984633
+Cloze Card Display --- Question: A --- The closet star to the earth --- Cloze: Sun  Date: 1506905993644
+Cloze Card Display --- Question: --- The wearing away of land --- Erosion --- Date: 1506905989141
+Cloze Card Display --- Question: This planet in longer apart of the solar system --- Cloze: Pluto--- Date: 1506905998147
+Basic Card Display --- Question: What city do you live in--- Answer: Cleveland  --- Date: 1506906061008
+Basic Card Display --- Question: How many feet in a mile --- Answer: 5,280 feet--- Date: 1506906067516
+Basic Card Display --- Question: What is the body's largest organ --- Answer: skin --- Date: 1506906074018
+Cloze Card Display --- Question: The moon affects the Earth's --- --- Cloze: ocean tides --- Date: 1506906087330
+Cloze Card Display --- Question: --- Not including Pluto. How many planets are there --- Cloze: 8 planets --- Date: 1506906093840
+Cloze Card Display --- Question: The --- closet start to the earth --- Cloze: sun --- Date: 1506906106846
+Cloze Card Display --- Question: The --- wearing away of land --- Cloze: Erosion --- Date: 1506906100343
