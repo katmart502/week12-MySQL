@@ -1,0 +1,19 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "generates basic and cloze flashcards",
+  "main": "FlashCard.js",
+  "dependencies": {
+    "inquirer": "3.3.0"
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katmart02/week12-MySQL.git"
+  },
+  "author": "Katherine Martin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/https://github.com/katmart502/week12-MySQL.git/issues"
+  },
+  "homepage": "https://github.com/katmart502/week12-MySQL.git#readme"
+}
