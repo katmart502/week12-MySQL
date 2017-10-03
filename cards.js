@@ -7,7 +7,7 @@ var BasicCard = function() {
 		this.front = front;
 		this.back = back;
 		this.type = type;
-		this.date = Date.now(); //convert this to a usable date loser!
+		this.date = Date.now(); 
 		fs.appendFile("activityLog.txt", this.type + " --- Question: " + this.front + " --- Answer: " + this.back + " --- Date: " + this.date + "\r\n", function(err) {
 			if (err) {
 		    	return console.log(err);
