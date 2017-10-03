@@ -41,12 +41,6 @@ var ClozeCard = function() {
 			  	// this.answerToSend = answerToSend;
 			});
 		});
-		// I CAN NOT FIGURE OUT HOW TO LOG THIS AS I HAVE A SCOPE ISSUE IF I PUT THIS INSIDE THE INQUIRER...  I COULD JUST PUT AN FS IN HERE BUT THAT SEEMS LIKE CHEATING
-		// var waitTill2 = new Date(new Date().getTime() + 10 * 1000);
-		// while(waitTill2 > new Date()){}
-		// console.log("Question in createClozeCard" + this.questionToSend);
-		// console.log("Answer in createClozeCard" + this.answerToSend);
-		// this.activityLog("Cloze Card Creation", this.questionToSend, this.answerToSend);
 		
 	}
 	this.displayClozeCard = function (question, answer, done, count) {
@@ -66,10 +60,6 @@ var ClozeCard = function() {
 			this.readClozeCard(this.count);
 		} else {
 			console.log("All done!");
-			// I WANT TO RELOAD THE ORIGINAL MENU BUT I HAVEN'T GOTTEN IT YET
-			// console.log(flashCard);
-			// console.log(flashCard.keepPlaying());
-			// let val = flashCard.keepPlaying();
 		}
 	}
 	this.readClozeCard = function(count) {
