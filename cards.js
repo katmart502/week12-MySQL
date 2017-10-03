@@ -31,7 +31,6 @@ var BasicCard = function() {
 				if (err) {
 			    	return console.log(err);
 			  	}
-			  	// this.activityLog("Basic Card Creation", questionToSend, answerToSend);
 			});
 		});
 	}
@@ -52,10 +51,7 @@ var BasicCard = function() {
 			this.readBasicCard(this.count);
 		} else {
 			console.log("All done!");
-			// console.log(flashCard);
-			// console.log(flashCard.keepPlaying());
-			// let val = flashCard.keepPlaying();
-		}
+				}
 	}
 	this.readBasicCard = function(count) {
 		var data = fs.readFileSync("basicCards.txt").toString();
