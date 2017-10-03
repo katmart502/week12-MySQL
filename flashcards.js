@@ -59,25 +59,4 @@ var initialPrompt = function () {
 	});
 };
 
-// I AM TRYING TO RELOAD THE MAIN MENU WITH THIS BUT I AM HAVING TROUBLE CALLING IT FROM THE OTHER FILES
-// module.exports = {
-// 	keepPlaying: function() {
-// 	Inquirer.prompt([{
-// 		type: "list",
-// 		message: "What do you want to do next?",
-// 		choices: ["More Flash Cards", "Exit",],
-// 		name: "action",
-// 	}]).then(function (inquirerResponse){
-// 		if (inquirerResponse.action === "More Flash Cards"){
-// 			initialPrompt();
-// 		} else if (inquirerResponse.action === "Exit"){
-// 			console.log("Thanks for learning with me!");
-// 			return;
-// 		} else {
-// 			console.log("Error!!!");
-// 		}
-// 	});
-// 	}
-// }
-
 initialPrompt();
